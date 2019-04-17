@@ -14,15 +14,15 @@ src
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; router  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; store  
 	
-eslintrc
+eslintrc	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ESLint配置
 
-package
+package  	
 
-env.development  	开发环境配置
+env.development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	开发环境配置
 
-env.production  	生产环境配置
+env.production  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	生产环境配置
 
-vue.config  		自定义项目配置
+vue.config  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	自定义项目配置
 
 
 ## Project setup
