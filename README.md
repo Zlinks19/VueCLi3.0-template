@@ -5,14 +5,14 @@
 public 静态文件
 
 src  
->>>>api       封装好的请求  
->>>>assets  
->>>>components  
->>>>views  
->>>>App  
->>>>main  
->>>>router  
->>>>store  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; api       封装好的请求  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; assets  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; components  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; views  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; App  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; main  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; router  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; store  
 	
 eslintrc
 
