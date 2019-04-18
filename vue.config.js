@@ -15,17 +15,7 @@ module.exports = {
     port: 9027, // 服务端口
     https: false,
     hotOnly: false,
-    proxy: {
-      // "/api": {
-      //     target: "http://test.xxx.com.cn",
-      //     ws: true, // proxy websockets
-      //     changeOrigin: true, // needed for virtual hosted sites
-      //     pathRewrite: {
-      //         "^/api": "" // 设置过滤关键字api ，
-      //         //   '^/': ''  // 设置过滤关键字为空 ，
-      //     }
-      // }
-    }
+    proxy:null
   },
   chainWebpack: config => {
     config.resolve.alias
